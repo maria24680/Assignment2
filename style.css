@@ -165,6 +165,89 @@ main{
     font-size: 1rem;
     padding-top: 16px;
 }
+.episodes{
+    height: 1276px;
+    background-color: #1A0B2E;
+    padding: 120px 200px;
+}
+.episodes h1{
+    text-align: center;
+    font-size: 3rem;
+    color: #FFFFFF;
+    font-weight: bold;
+    padding-bottom: 40px;
+}
+.episode-grid{
+    display: grid;
+    gap: 30px;
+    padding-bottom: 120px;
+    grid-template-columns: repeat;
+}
+/* .episode-card{
+    
+} */
+.host-card{
+    background-color: #3C1471;
+    height: 280px;
+    width: 1100px;
+    border-radius: 40px;
+    padding: 40px 40px;
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+.host-info h2{
+    font-size: 2rem;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding-bottom: 16px;
+}
+.host-info p{
+    font-size: 1rem;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.social-icons{
+    
+}
+
+footer{
+    background: url(./assets/footer-bg.png);
+    background-repeat: no-repeat;
+    height: 412px;
+    background-size: cover;
+    padding: 20px 60px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; 
+}
+.footer-logo{
+    color: white;
+    font-size: 2.5rem;
+    padding-bottom: 20px;
+}
+ .footer-logo span{
+    background: linear-gradient(20deg,#9100F8,#FB09B4,#F7E93F);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+} 
+.footer-links ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+
+}
+.footer-links a{
+    color: #FAFAFA;
+    text-decoration: none;
+    font-size: 0.9rem;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
 
 
 
