@@ -54,6 +54,18 @@ body {
 .btn-primary:hover{
     background: linear-gradient(45deg, #0f0783, #ff7eb3);
 }
+.btn-primary-1 {
+    background: linear-gradient(45deg, #F7E93F 0%,#FB09B4 51%, #9100F8 100%);
+    border: none;
+    padding: 10px 24px;
+    border-radius: 30px;
+    color: white;
+    cursor: pointer;
+    font-weight: 500;
+}
+.btn-primary-1:hover{
+    background: linear-gradient(45deg, #0f0783, #ff7eb3);
+}
 
 .mobile-menu-icon { 
     display: none; 
@@ -79,7 +91,7 @@ body {
 
 .mic-img { 
     width: 120px; 
-    padding-top: 80px; 
+    padding-top: 60px; 
 }
 
 .badge-new {
@@ -335,4 +347,21 @@ body {
 
 .copyright { 
     opacity: 0.6; 
+}
+
+@media (max-width: 576px) {
+    .nav-links, .btn-primary-1 { display: none; 
+    }
+    .mobile-menu-icon { display: block; width: 30px; 
+    }
+    .hero-title { font-size: 2.5rem; 
+    }
+    .stats-grid { grid-template-columns: repeat(2, 1fr); 
+    }
+    .bento-grid, .episodes-grid { grid-template-columns: 1fr; 
+    }
+    .host-container { flex-direction: column; text-align: center; 
+    }
+    .premium-card, .wide-card, .resources-card { grid-column: span 1; 
+    }
 }
