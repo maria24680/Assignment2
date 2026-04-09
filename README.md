@@ -1,146 +1,125 @@
-## 🌟 WELCOME TO ( সহজ সরল সিম্পল ) ASSIGNMENT-002 😎
+# 🎧 TechWave - Podcast Website
+
+## 📌 Project Overview
+
+TechWave is a modern and responsive podcast website built based on a provided Figma design. The project focuses on creating a visually appealing layout with proper alignment, responsiveness, and clean UI structure.
+
+This website showcases podcast content, featured episodes, host information, and key platform features in a structured and user-friendly way.
 
 ---
 
-📅 Deadline For 60 marks: 20th January, 2026 (11:59 pm ⏱️)
+## 🎯 Objective
 
-📅 Deadline For 50 marks: 21th January, 2026 (11:59 pm ⏱️)
-
-📅 Deadline For 30 marks: Any time after 21th January.
-
-# TechWave - Podcast Website
-
-## ❓ Common Questions & Answers
-
-**Can I use different images?**
-
-- Yes, you may use any relevant images.
-
-**Can I change the alignment and design freely?**
-
-- No. You must follow the alignment and layout shown in the Figma design.
-
-**Can I change colors?**
-
-- Yes, as long as the colors are relevant and visually consistent.
-
-**Do I need to make the page pixel-perfect?**
-
-- No. You can use your own margin and padding while following the overall structure from Figma.
-
----
-
-## 📌 Assignment Requirements
-
-### ✅ Main Requirements (50 Marks)
-
-### Navbar
-
-- **Desktop/Laptop/Large Device:**
-  - Logo on the Left
-  - Menu Items in the Center (like Figma design)
-  - Gradient Button on the Right
-- **Mobile Device:**
-  - Hidden nav items with hamburger menu icon
-  - Fully responsive navigation
-
-### Banner Section
-
-- **Desktop/Laptop/Large Device:**
-  - Background Image
-  - Center-aligned podcast circle view with visual effects
-  - Relevant heading and descriptive text at center
-  - Two call-to-action buttons below the text
-- **Mobile Device:**
-  - Mobile responsive layout matching Figma design
-
-
-### About Section
-
-- **Desktop/Laptop/Large Device:**
-  - Heading with descriptive text at the top
-  - 4 statistics items displayed in a row with proper styling
-- **Mobile Device:**
-  - 4 statistics items responsive layout (2x2 grid stacked on mobile)
-
-### Why Choose Section
-
-- **Desktop/Laptop/Large Device:**
-  - 5 feature cards layout matching Figma design
-  - Each card contains: icon, title, and description
-- **Mobile Device:**
-  - Fully responsive card layout
-  - Single column layout on mobile devices
-
-### Featured Episodes Section
-
-- **Desktop/Laptop/Large Device:**
-  - 3 featured episode cards layout
-  - Each card includes: title, description, and duration
-  - YouTube video links embedded in cards
-- **Mobile Device:**
-  - Responsive card layout for mobile devices
-
-### Footer Section
-
-- **Desktop/Laptop/Large Device:**
-  - Center-aligned layout with brand and platform information
-  - Copyright information with horizontal line separator
-- **Mobile Device:**
-  - Responsive footer layout maintaining readability
-
----
-
-## 🚀 CHALLENGES (10 Marks)
-
-### Host Section
-
-- **Desktop/Laptop/Large Device:**
-  - Image on the left with host name, biography, and social media icons
-  - Professional layout with proper alignment
-- **Mobile Device:**
-  - Responsive layout with stacked design for mobile view
-
-### Additional Challenges
-
-- Implement smooth animations on any buttons or sections for enhanced user experience
-- Minimum 5 commits on GitHub with meaningful commit messages
-- No Lorem Ipsum content - use relevant, meaningful text
-- "New" badge in the podcast circle view positioned exactly as per Figma design
-
----
-
-### Responsive Breakpoints
-
-- **Small device:** up to 576 px 
-- **Medium Device:** 576px to 992 px (Optional)
-- **Large Device:** above 992 px 
-
+- Follow the Figma design layout accurately  
+- Build a fully responsive website for all devices  
+- Maintain clean, readable, and structured code  
+- Create a real-world UI experience without using JavaScript  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML5
-- CSS3/Tailwind CSS
-- No JavaScript
+- **HTML5**
+- **CSS3**
+- **Tailwind CSS**
 
 ---
 
-## ✅ Submission Checklist
+## 🚀 Features
 
-- Figma layout followed correctly
-- Proper alignment and spacing
-- Clean and readable HTML & CSS
-- Each Section are responsive with proper breakpoints
-- Live site deployed
-- Public GitHub repository
+- 📱 Fully responsive design (Mobile, Tablet, Desktop)  
+- 🎨 Clean and modern UI following Figma layout  
+- ✨ Smooth hover effects and subtle animations  
+- 🧩 Well-structured and reusable components  
+- 🎧 Embedded podcast episodes (YouTube integration)  
+
+---
+
+## 🧱 Sections Included
+
+### 🔹 Navbar
+- Logo on the left  
+- Centered navigation menu  
+- Gradient button on the right  
+- Responsive hamburger menu for mobile  
+
+### 🔹 Banner Section
+- Background image with podcast visual  
+- Center-aligned heading and description  
+- Call-to-action buttons  
+- Stylish podcast circle design  
+
+### 🔹 About Section
+- Informative heading and description  
+- 4 statistics items in a row  
+- Responsive grid layout for smaller devices  
+
+### 🔹 Why Choose Section
+- 5 feature cards  
+- Each card includes icon, title, and description  
+- Fully responsive layout  
+
+### 🔹 Featured Episodes
+- 3 podcast cards  
+- Embedded YouTube videos  
+- Title, description, and duration included  
+
+### 🔹 Host Section (Challenge)
+- Host image with name and bio  
+- Social media icons  
+- Responsive stacked layout on mobile  
+
+### 🔹 Footer
+- Center-aligned content  
+- Platform/brand information  
+- Divider and copyright text  
 
 ---
 
-## 📂 Submission Format
+## 📂 Live Demo
 
-- **GitHub Repository Link**
-- **Live Website Link (GitHub Pages)**
+🔗 **Live Site:** https://maria24680.github.io/Assignment2/  
+🔗 **GitHub Repository:** https://github.com/maria24680/Assignment2 
 
 ---
+
+## ✅ Completion Checklist
+
+- ✔ Figma layout followed properly  
+- ✔ Responsive design implemented  
+- ✔ Clean and organized HTML & CSS  
+- ✔ Smooth UI interactions  
+- ✔ No placeholder (Lorem Ipsum) text  
+- ✔ Minimum 5 meaningful GitHub commits  
+
+---
+
+## 💡 What I Learned
+
+- Building responsive layouts using Tailwind CSS  
+- Translating Figma designs into real websites  
+- Improving UI/UX design understanding  
+- Structuring large multi-section webpages  
+
+---
+
+## 🙌 Acknowledgement
+
+Thanks to the instructor for providing a well-structured design and clear guidelines. This project helped improve my frontend development skills significantly.
+
+---
+
+## 🌸 Author
+
+**Mumtahina Maria**  
+CSE Student | Aspiring Web Developer  
+
+📧 mariamila24680@gmail.com  
+🔗 https://www.linkedin.com/in/mumtahina-maria-  
+
+---
+
+## 💖 Thank You
+
+Thank you for visiting this project!  
+Feel free to explore and share your feedback 🚀
